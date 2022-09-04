@@ -36,7 +36,7 @@ app.post("/", function(req, res){
   })
 })
 //const query = "puerto+escondido"
-//const api = "1fc14362aae6eab6f935474def8d2a32"
+//const api = "1fc1436211aae6eab6f935474def8d2a32"
 //const units = "metric"
 //const url ="https://api.openweathermap.org/data/2.5/weather?q="+query+"&units="+"&appid="+api
 //https.get(url, function(response){
